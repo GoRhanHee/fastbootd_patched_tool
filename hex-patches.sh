@@ -88,9 +88,6 @@ declare -a HEX_PATCHES=(
 
     # Galaxy S23 Series, Z Flip5, Z Fold5 (One UI 9)
     "16140494e0031f2a:1614049420008052"
-
-    # Galaxy Z Fold5 SM-F946N / F946NTBU6HZIK (One UI 9)
-    # The menu pattern matches both ENTER_FASTBOOT removal sites.
     "da15049440010034:da15049411000014"
     "080340f9e00318aac1018052082d40f900013fd6:05000014e00318aac1018052082d40f900013fd6"
 
